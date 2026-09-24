@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dasenCoding&show_icons=true&theme=radical)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi%2C+I'm+dasen.;Learning+AI+%2B+Data" alt="Typing SVG" /></a>
 <!--
 **dasenCoding/dasenCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
